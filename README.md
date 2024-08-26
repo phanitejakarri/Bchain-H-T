@@ -1,6 +1,6 @@
-# KadenaKode
+#Bchain-H&T
 
-KadenaKode is a simple UI for sending transactions to the Kadena Blockchain using x wallet or chainweaver/zelcore.
+ H&T is a simple UI for sending transactions to the  Blockchain using x wallet or chain-weaver/zelcore.
 
 Type in your pact code.  
 Add env variables using the EnvData area.  
